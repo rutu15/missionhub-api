@@ -3,79 +3,14 @@
 
   {"data": [
     {
-      "missionName": "Mars Exploration Mission",
-      "status": "Ongoing",
-      "description": "The Mars Exploration Mission aims to explore the Martian surface, study its geology, search for signs of past life, and prepare for future human exploration.",
-      "launchDate": "2024-01-01",
-      "expectedDuration": "2 years",
-      "currentLocation": "En route to Mars",
-      "trajectory": "Solar orbit towards Mars",
-      "images": [
-        "https://example.com/image1.jpg",
-        "https://example.com/image2.jpg"
-      ],
-      "milestones": [
-        {
-          "name": "Launch and Departure",
-          "date": "2024-01-01",
-          "status": "Achieved"
-        },
-        {
-          "name": "Transit Phase",
-          "date": "2024-01-15",
-          "status": "Ongoing"
-        },
-        {
-          "name": "Entry, Descent, and Landing (EDL) Phase",
-          "expectedDate": "2024-08-15",
-          "status": "Pending"
-        }
-      ],
-      "checklistItems": [
-        {
-          "itemName": "Fuel Levels",
-          "status": "unchecked"
-        },
-        {
-          "itemName": "Engine Readiness",
-          "status": "unchecked"
-        },
-        {
-          "itemName": "Communication Antenna Alignment",
-          "status": "unchecked"
-        }
-      ],
-      "steps": [
-        {
-          "stepNumber": 1,
-          "stepDescription": "T-Minus 10 minutes: Start pre-launch procedures."
-        },
-        {
-          "stepNumber": 2,
-          "stepDescription": "T-Minus 5 minutes: Communication checks with mission control."
-        },
-        {
-          "stepNumber": 3,
-          "stepDescription": "T-Minus 1 minute: Final checks and system arming."
-        },
-        {
-          "stepNumber": 4,
-          "stepDescription": "T-Minus 10 seconds: Ignition sequence start."
-        },
-        {
-          "stepNumber": 5,
-          "stepDescription": "T-Minus 0: Liftoff!"
-        }
-      ]
-    },
-    {
-      "missionName": "Venus Exploration Mission",
+      "missionName": "Saturn Voyager Project",
       "status": "Planned",
-      "description": "The Venus Exploration Mission aims to explore the surface and atmosphere of Venus, study its geological features, and analyze its climate.",
+      "mainImage": "/images/saturn-main.jpg",
+      "description": "The Saturn Voyager Project aims to explore the moons and rings of Saturn, study its geological features, and analyze its atmosphere.",
       "launchDate": "2025-03-15",
       "expectedDuration": "3 years",
       "currentLocation": "Earth",
-      "trajectory": "Interplanetary trajectory towards Venus",
+      "trajectory": "Interplanetary trajectory towards Saturn",
       "images": [
         "https://example.com/image3.jpg",
         "https://example.com/image4.jpg"
@@ -130,8 +65,245 @@
         },
         {
           "stepNumber": 5,
-          "stepDescription": "Interplanetary transfer to Venus."
+          "stepDescription": "Interplanetary transfer to Saturn."
+        }
+      ]
+    },
+    {
+      "missionName": "Perseverance Rover Mission",
+      "status": "Ready for Launch",
+      "mainImage": "/images/rover-main.jpg",
+      "description": "The Perseverance Rover Mission aims to explore the Martian surface, study its geology, search for signs of past life, and prepare for future human exploration.",
+      "launchDate": "14-05-2024",
+      "expectedDuration": "2 years",
+      "currentLocation": "Jezero Crater, Mars",
+      "trajectory": "Direct route to Mars with aerobraking maneuvers",
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "milestones": [
+        {
+          "name": "Launch and Departure",
+          "date": "14-05-2024",
+          "status": "Scheduled"
+        },
+        {
+          "name": "Cruise Phase",
+          "date": "14-06-2024 - 14-06-2025",
+          "status": "Scheduled"
+        },
+        {
+          "name": "Entry, Descent, and Landing (EDL) Phase",
+          "expectedDate": "15-07-2025",
+          "status": "Scheduled"
+        },
+        {
+          "name": "Surface Operations Phase",
+          "date": "14-05-2026",
+          "status": "Scheduled"
+        }
+      ],
+      "checklistItems": [
+        {
+          "itemName": "Fuel Levels",
+          "status": "unchecked"
+        },
+        {
+          "itemName": "Engine Readiness",
+          "status": "unchecked"
+        },
+        {
+          "itemName": "Communication Antenna Alignment",
+          "status": "unchecked"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepDescription": "T-Minus 10 minutes: Start pre-launch procedures."
+        },
+        {
+          "stepNumber": 2,
+          "stepDescription": "T-Minus 5 minutes: Communication checks with mission control."
+        },
+        {
+          "stepNumber": 3,
+          "stepDescription": "T-Minus 1 minute: Final checks and system arming."
+        },
+        {
+          "stepNumber": 4,
+          "stepDescription": "T-Minus 10 seconds: Ignition sequence start."
+        },
+        {
+          "stepNumber": 5,
+          "stepDescription": "T-Minus 0: Liftoff!"
+        }
+      ]
+    },
+    {
+      "missionName": "Exoplanet Survey Mission",
+      "status": "Ongoing",
+      "mainImage": "/images/exoplanet-main.jpg",
+      "description": "The Exoplanet Survey Mission aims to discover and characterize exoplanets orbiting distant stars, analyze their atmospheres, and assess their potential for hosting life.",
+      "launchDate": "2022-07-10",
+      "expectedDuration": "5 years",
+      "currentLocation": "Interstellar Space",
+      "trajectory": "Interplanetary trajectory towards designated exoplanet systems",
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "milestones": [
+        {
+          "name": "Mission Planning",
+          "date": "2020-12-01",
+          "status": "Completed"
+        },
+        {
+          "name": "Spacecraft Assembly",
+          "date": "2022-03-15",
+          "status": "Completed"
+        },
+        {
+          "name": "Launch and Departure",
+          "date": "2022-07-10",
+          "status": "Completed"
+        },
+        {
+          "name": "Interplanetary Transfer",
+          "date": "2022-07-25",
+          "status": "Ongoing"
+        }
+      ],
+      "checklistItems": [
+        {
+          "itemName": "Spacecraft Components",
+          "status": "Completed"
+        },
+        {
+          "itemName": "Launch Vehicle Readiness",
+          "status": "Completed"
+        },
+        {
+          "itemName": "Communications Test",
+          "status": "Completed"
+        },
+        {
+          "itemName": "Instruments Calibration",
+          "status": "Ongoing"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepDescription": "Mission planning and requirements analysis."
+        },
+        {
+          "stepNumber": 2,
+          "stepDescription": "Spacecraft design and assembly."
+        },
+        {
+          "stepNumber": 3,
+          "stepDescription": "Integration with launch vehicle."
+        },
+        {
+          "stepNumber": 4,
+          "stepDescription": "Launch and ascent to Earth orbit."
+        },
+        {
+          "stepNumber": 5,
+          "stepDescription": "Interplanetary transfer to designated exoplanet systems."
+        }
+      ]
+    },
+    {
+      "missionName": "Apollo 11",
+      "status": "Completed",
+      "mainImage": "/images/apollo-main.jpg",
+      "description": "Apollo 11 was the first crewed mission to land on the Moon, accomplished by NASA in 1969. The mission's primary objective was to perform a crewed lunar landing and return safely to Earth.",
+      "launchDate": "1969-07-16",
+      "expectedDuration": "8 days",
+      "currentLocation": "Earth",
+      "trajectory": "Earth-Moon trajectory",
+      "images": [
+        "https://example.com/apollo11/image1.jpg",
+        "https://example.com/apollo11/image2.jpg"
+      ],
+      "milestones": [
+        {
+          "name": "Launch",
+          "date": "1969-07-16",
+          "status": "Achieved"
+        },
+        {
+          "name": "Lunar Landing",
+          "date": "1969-07-20",
+          "status": "Achieved"
+        },
+        {
+          "name": "Lunar Ascent",
+          "date": "1969-07-21",
+          "status": "Achieved"
+        },
+        {
+          "name": "Re-entry and Splashdown",
+          "date": "1969-07-24",
+          "status": "Achieved"
+        }
+      ],
+      "checklistItems": [
+        {
+          "itemName": "Spacecraft Systems Check",
+          "status": "Complete"
+        },
+        {
+          "itemName": "Lunar Module Descent",
+          "status": "Complete"
+        },
+        {
+          "itemName": "Lunar Module Ascent",
+          "status": "Complete"
+        },
+        {
+          "itemName": "Command Module Re-entry",
+          "status": "Complete"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepDescription": "Launch from Kennedy Space Center."
+        },
+        {
+          "stepNumber": 2,
+          "stepDescription": "Trans-lunar injection and trajectory towards the Moon."
+        },
+        {
+          "stepNumber": 3,
+          "stepDescription": "Lunar orbit insertion and preparations for landing."
+        },
+        {
+          "stepNumber": 4,
+          "stepDescription": "Descent and landing on the lunar surface."
+        },
+        {
+          "stepNumber": 5,
+          "stepDescription": "Exploration activities on the Moon."
+        },
+        {
+          "stepNumber": 6,
+          "stepDescription": "Ascent from the lunar surface to rendezvous with the command module."
+        },
+        {
+          "stepNumber": 7,
+          "stepDescription": "Return journey to Earth."
+        },
+        {
+          "stepNumber": 8,
+          "stepDescription": "Re-entry into Earth's atmosphere and splashdown in the Pacific Ocean."
         }
       ]
     }
-  ]}
+  ]
+  }
