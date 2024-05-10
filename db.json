@@ -79,22 +79,22 @@
       "milestones": [
         {
           "name": "Launch and Departure",
-          "date": "14-05-2024",
+          "date": "2024-05-14",
           "status": "Scheduled"
         },
         {
           "name": "Cruise Phase",
-          "date": "14-06-2024 - 14-06-2025",
+          "date": "2024-06-14 - 2025-06-15",
           "status": "Scheduled"
         },
         {
           "name": "Entry, Descent, and Landing (EDL) Phase",
-          "expectedDate": "15-07-2025",
+          "expectedDate": "2025-07-15",
           "status": "Scheduled"
         },
         {
           "name": "Surface Operations Phase",
-          "date": "14-05-2026",
+          "date": "2026-05-14",
           "status": "Scheduled"
         }
       ],
