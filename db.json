@@ -1,9 +1,8 @@
-
-  
-
-  {"data": [
+{
+  "data": [
     {
-      "id":1,
+      "id": 1,
+      "mission": "Saturn",
       "missionName": "Saturn Voyager Project",
       "status": "Planned",
       "mainImage": "/images/saturn-main.jpg",
@@ -12,10 +11,6 @@
       "expectedDuration": "3 years",
       "currentLocation": "Earth",
       "trajectory": "Interplanetary trajectory towards Saturn",
-      "images": [
-        "https://example.com/image3.jpg",
-        "https://example.com/image4.jpg"
-      ],
       "milestones": [
         {
           "name": "Mission Planning",
@@ -71,7 +66,8 @@
       ]
     },
     {
-      "id":2,
+      "id": 2,
+      "mission": "Mars",
       "missionName": "Perseverance Rover Mission",
       "status": "Ready for Launch",
       "mainImage": "/images/rover-main.jpg",
@@ -80,10 +76,6 @@
       "expectedDuration": "2 years",
       "currentLocation": "Jezero Crater, Mars",
       "trajectory": "Direct route to Mars with aerobraking maneuvers",
-      "images": [
-        "https://example.com/image1.jpg",
-        "https://example.com/image2.jpg"
-      ],
       "milestones": [
         {
           "name": "Launch and Departure",
@@ -144,7 +136,8 @@
       ]
     },
     {
-      "id":3,
+      "id": 3,
+      "mission": "Exoplanet",
       "missionName": "Exoplanet Survey Mission",
       "status": "Ongoing",
       "mainImage": "/images/exoplanet-main.jpg",
@@ -153,48 +146,44 @@
       "expectedDuration": "5 years",
       "currentLocation": "Interstellar Space",
       "trajectory": "Interplanetary trajectory towards designated exoplanet systems",
-      "images": [
-        "https://example.com/image1.jpg",
-        "https://example.com/image2.jpg"
-      ],
       "milestones": [
         {
           "name": "Mission Planning",
           "date": "2020-12-01",
-          "status": "Completed"
+          "status": "Achieved"
         },
         {
           "name": "Spacecraft Assembly",
           "date": "2022-03-15",
-          "status": "Completed"
+          "status": "Achieved"
         },
         {
           "name": "Launch and Departure",
           "date": "2022-07-10",
-          "status": "Completed"
+          "status": "Achieved"
         },
         {
           "name": "Interplanetary Transfer",
           "date": "2022-07-25",
-          "status": "Ongoing"
+          "status": "Achieved"
         }
       ],
       "checklistItems": [
         {
           "itemName": "Spacecraft Components",
-          "status": "Completed"
+          "status": "Checked"
         },
         {
           "itemName": "Launch Vehicle Readiness",
-          "status": "Completed"
+          "status": "Checked"
         },
         {
           "itemName": "Communications Test",
-          "status": "Completed"
+          "status": "Checked"
         },
         {
           "itemName": "Instruments Calibration",
-          "status": "Ongoing"
+          "status": "Checked"
         }
       ],
       "steps": [
@@ -221,7 +210,8 @@
       ]
     },
     {
-      "id":4,
+      "id": 4,
+      "mission": "Moon",
       "missionName": "Apollo 11",
       "status": "Completed",
       "mainImage": "/images/apollo-main.jpg",
@@ -259,19 +249,19 @@
       "checklistItems": [
         {
           "itemName": "Spacecraft Systems Check",
-          "status": "Complete"
+          "status": "Checked"
         },
         {
           "itemName": "Lunar Module Descent",
-          "status": "Complete"
+          "status": "Checked"
         },
         {
           "itemName": "Lunar Module Ascent",
-          "status": "Complete"
+          "status": "Checked"
         },
         {
           "itemName": "Command Module Re-entry",
-          "status": "Complete"
+          "status": "Checked"
         }
       ],
       "steps": [
@@ -310,4 +300,4 @@
       ]
     }
   ]
-  }
+}
