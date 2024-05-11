@@ -1,5 +1,5 @@
 {
-  "data":[
+  "data": [
     {
       "id": 1,
       "mission": "Saturn",
@@ -160,23 +160,43 @@
       "steps": [
         {
           "stepNumber": 1,
-          "stepDescription": "T-Minus 10 minutes: Start pre-launch procedures."
+          "stepDescription": "Initiate spacecraft power-up sequence."
         },
         {
           "stepNumber": 2,
-          "stepDescription": "T-Minus 5 minutes: Communication checks with mission control."
+          "stepDescription": "Begin pre-launch engine chilldown."
         },
         {
           "stepNumber": 3,
-          "stepDescription": "T-Minus 1 minute: Final checks and system arming."
+          "stepDescription": "Verify communication systems integrity"
         },
         {
           "stepNumber": 4,
-          "stepDescription": "T-Minus 10 seconds: Ignition sequence start."
+          "stepDescription": "Execute final guidance alignment and flight software check."
         },
         {
           "stepNumber": 5,
-          "stepDescription": "T-Minus 0: Liftoff!"
+          "stepDescription": "Arm vehicle for launch and switch to internal power."
+        },
+        {
+          "stepNumber": 6,
+          "stepDescription": "Clear launch pad area and confirm range safety."
+        },
+        {
+          "stepNumber": 7,
+          "stepDescription": "Final verification of flight readiness."
+        },
+        {
+          "stepNumber": 8,
+          "stepDescription": "Initiate engine ignition and thrust buildup."
+        },
+        {
+          "stepNumber": 9,
+          "stepDescription": "Main engine ignition"
+        },
+        {
+          "stepNumber": 10,
+          "stepDescription": "Liftoff!"
         }
       ]
     },
@@ -403,5 +423,4 @@
       ]
     }
   ]
-  
 }
