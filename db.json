@@ -65,11 +65,11 @@
       ],
       "steps": [
         {
-          "stepNumber": 1,
+          "stepNumber": 5,
           "stepDescription": "Mission planning and requirements analysis."
         },
         {
-          "stepNumber": 2,
+          "stepNumber": 4,
           "stepDescription": "Spacecraft design and assembly."
         },
         {
@@ -77,11 +77,11 @@
           "stepDescription": "Integration with launch vehicle."
         },
         {
-          "stepNumber": 4,
+          "stepNumber": 2,
           "stepDescription": "Launch and ascent to Earth orbit."
         },
         {
-          "stepNumber": 5,
+          "stepNumber": 1,
           "stepDescription": "Interplanetary transfer to Saturn."
         }
       ]
@@ -159,43 +159,43 @@
       ],
       "steps": [
         {
-          "stepNumber": 1,
+          "stepNumber": 10,
           "stepDescription": "Initiate spacecraft power-up sequence."
         },
         {
-          "stepNumber": 2,
+          "stepNumber": 9,
           "stepDescription": "Begin pre-launch engine chilldown."
         },
         {
-          "stepNumber": 3,
+          "stepNumber": 8,
           "stepDescription": "Verify communication systems integrity"
         },
         {
-          "stepNumber": 4,
+          "stepNumber": 7,
           "stepDescription": "Execute final guidance alignment and flight software check."
         },
         {
-          "stepNumber": 5,
+          "stepNumber": 6,
           "stepDescription": "Arm vehicle for launch and switch to internal power."
         },
         {
-          "stepNumber": 6,
+          "stepNumber": 5,
           "stepDescription": "Clear launch pad area and confirm range safety."
         },
         {
-          "stepNumber": 7,
+          "stepNumber": 4,
           "stepDescription": "Final verification of flight readiness."
         },
         {
-          "stepNumber": 8,
+          "stepNumber": 3,
           "stepDescription": "Initiate engine ignition and thrust buildup."
         },
         {
-          "stepNumber": 9,
+          "stepNumber": 2,
           "stepDescription": "Main engine ignition"
         },
         {
-          "stepNumber": 10,
+          "stepNumber": 1,
           "stepDescription": "Liftoff!"
         }
       ]
@@ -275,11 +275,11 @@
       ],
       "steps": [
         {
-          "stepNumber": 1,
+          "stepNumber": 5,
           "stepDescription": "Mission planning and requirements analysis."
         },
         {
-          "stepNumber": 2,
+          "stepNumber": 4,
           "stepDescription": "Spacecraft design and assembly."
         },
         {
@@ -287,11 +287,11 @@
           "stepDescription": "Integration with launch vehicle."
         },
         {
-          "stepNumber": 4,
+          "stepNumber": 2,
           "stepDescription": "Launch and ascent to Earth orbit."
         },
         {
-          "stepNumber": 5,
+          "stepNumber": 1,
           "stepDescription": "Interplanetary transfer to designated exoplanet systems."
         }
       ]
@@ -389,35 +389,35 @@
       ],
       "steps": [
         {
-          "stepNumber": 1,
+          "stepNumber": 8,
           "stepDescription": "Launch from Kennedy Space Center."
         },
         {
-          "stepNumber": 2,
+          "stepNumber": 7,
           "stepDescription": "Trans-lunar injection and trajectory towards the Moon."
         },
         {
-          "stepNumber": 3,
+          "stepNumber": 6,
           "stepDescription": "Lunar orbit insertion and preparations for landing."
         },
         {
-          "stepNumber": 4,
+          "stepNumber": 5,
           "stepDescription": "Descent and landing on the lunar surface."
         },
         {
-          "stepNumber": 5,
+          "stepNumber": 4,
           "stepDescription": "Exploration activities on the Moon."
         },
         {
-          "stepNumber": 6,
+          "stepNumber": 3,
           "stepDescription": "Ascent from the lunar surface to rendezvous with the command module."
         },
         {
-          "stepNumber": 7,
+          "stepNumber": 2,
           "stepDescription": "Return journey to Earth."
         },
         {
-          "stepNumber": 8,
+          "stepNumber": 1,
           "stepDescription": "Re-entry into Earth's atmosphere and splashdown in the Pacific Ocean."
         }
       ]
